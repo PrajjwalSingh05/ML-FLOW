@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Project/ML%20FLOW/lungs%20disease/mlruns/0/14ab5ab19a78465d80bf83ea820f00eb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14ab5ab19a78465d80bf83ea820f00eb
+run_name: puzzled-shrimp-687
+run_uuid: 14ab5ab19a78465d80bf83ea820f00eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720689231135
+status: 1
+tags: []
+user_id: hp

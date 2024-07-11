@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Project/ML%20FLOW/lungs%20disease/mlruns/0/91fefe55b81143ac95f12661b523fedc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91fefe55b81143ac95f12661b523fedc
+run_name: capable-rat-195
+run_uuid: 91fefe55b81143ac95f12661b523fedc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720691474253
+status: 1
+tags: []
+user_id: hp
